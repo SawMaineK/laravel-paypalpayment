@@ -22,7 +22,7 @@ Install this package through Composer. To your `composer.json` file, add:
 
 ```js
 "require": {
-    "anouar/paypalpayment": "~1.0"
+    "sawmainek/paypalpayment": "~1.0"
 }
 ```
 
