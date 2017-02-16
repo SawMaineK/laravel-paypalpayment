@@ -1,11 +1,11 @@
 {
-    "name": "anouar/paypalpayment",
+    "name": "sawmainek/paypalpayment",
     "description": "laravel-paypalpayment is simple package help you process direct credit card payments, stored credit card payments and PayPal account payments with your L4 projects using paypal REST API SDK.",
     "license": "BSD-2-Clause",
     "authors": [
         {
-            "name": "Anouar Abdessalam",
-            "email": "dtekind@gmail.com"
+            "name": "Saw Maine K",
+            "email": "sawmainek90@gmail.com"
         }
     ],
     "require": {
